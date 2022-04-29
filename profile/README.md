@@ -1,5 +1,7 @@
-# IIT Palakkad DBIS Reading Group
 
+<img src="https://github.com/iitpkd-DBIS-reading-group/.github/blob/main/profile/IIT_PKD_short%20logo_RGB.jpg" height="200" >
+
+# IIT Palakkad DBIS Reading Group
 ## Research Areas
 - Knowledge Base Curation
 - Indexing and Similarity Search
