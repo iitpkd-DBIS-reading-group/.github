@@ -1,5 +1,5 @@
 
-<img src="https://github.com/iitpkd-DBIS-reading-group/.github/blob/main/profile/IIT_PKD_short%20logo_RGB.jpg" height="200" >
+<img src="https://github.com/iitpkd-DBIS-reading-group/.github/blob/main/profile/IIT%20PKD%20logo.png" height="200" >
 
 # IIT Palakkad DBIS Reading Group
 ## Research Areas
